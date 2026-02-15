@@ -1,7 +1,7 @@
 <div align="center">
 
-#  Hey, I'm Alpha  
-### Experienced Full-stack Developer and AI/ML Engineer
+#  Hey, I'm Aysha Saeed Aka Alpha
+### Experienced Full-stack Developer and a Founder
 
 </div>
 
