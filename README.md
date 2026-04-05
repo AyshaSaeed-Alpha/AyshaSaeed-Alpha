@@ -1,7 +1,8 @@
 <div align="center">
-
+#So you are here on my profile so let me introduce my-self 
+  
 #  Hey, I'm Aysha Saeed Aka Alpha
-### Experienced Full-stack Developer and a Founder
+### Full-stack Developer , Ui/Ux Designer and a Founder too
 
 </div>
 
