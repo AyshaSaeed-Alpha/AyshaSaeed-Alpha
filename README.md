@@ -2,8 +2,8 @@
 
   So you are here on my profile so let me introduce my-self 
   
-#  Hey, I'm Aysha Saeed Aka Alpha
-### Full-stack Developer , Ui/Ux Designer and a Founder too
+#  Hey, I'm Aysha Saeed
+### Full-stack Developer , UI/UX Designer
 
 </div>
 
