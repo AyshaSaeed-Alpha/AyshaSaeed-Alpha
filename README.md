@@ -1,6 +1,6 @@
 <div align="center">
 
-  So you are here on my profile so let me introduce my-self 
+  So you are here on my profile, let me introduce my-self 
   
 #  Hey, I'm Aysha Saeed
 ### Full-stack Developer , UI/UX Designer
