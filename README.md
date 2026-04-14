@@ -1,17 +1,18 @@
 <div align="center">
 
-<sub>So you found me — welcome</sub>
+<sub> you found me — </sub>
 
 # Hey, I'm Aysha Saeed
-### Full-Stack Developer · UI/UX Designer · Sialkot, PK
+### Full-Stack Developer · UI/UX Designer 
+### Sialkot, PK
 
-![Open to work](https://img.shields.io/badge/Open%20to%20work-brightgreen?style=flat-square)
-![30+ hrs/week](https://img.shields.io/badge/30%2B%20hrs%2Fweek-blue?style=flat-square)
-![Upwork $15/hr](https://img.shields.io/badge/Upwork-%2415%2Fhr-success?style=flat-square)
+---
+#### They say Work Speaks better than words -here a look 
 
-[![Upwork](https://img.shields.io/badge/Upwork-14a800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/aysha)
+
+[![Upwork](https://img.shields.io/badge/Upwork-14a800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b3c4706288536a95?viewMode=1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AyshaSaeed-Alpha)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aysha.saeedbu@gmail.com)
 
 </div>
 
@@ -19,7 +20,7 @@
 
 ### About
 
-Started from scratch in 2023. Before code, I wrote copy — landing pages, sales funnels, email sequences — and managed brands online. That background shapes how I build: I care about what a website *does* for a business, not just how it looks. Now I build full-stack web apps and design interfaces end-to-end, from Figma to deployment.
+Started from scratch in 2023. Before code, I wrote copy landing pages, sales funnels, email sequences — and managed brands online. That background shapes how I build: I care about what a website *does* for a business, not just how it looks. Now I build full-stack web apps and design interfaces end-to-end, from Figma to deployment.
 
 ---
 
@@ -51,46 +52,49 @@ Started from scratch in 2023. Before code, I wrote copy — landing pages, sales
 
 ---
 
-### What I Build
+###🚀 Services I offer
 
-| Full-Stack Web Apps | Front-End | UI/UX Design | Business Websites |
-|---|---|---|---|
-| MERN stack end-to-end | React + Tailwind CSS | Figma wireframes & prototypes | Corporate & brand sites |
-| REST API design | Responsive mobile-first | User experience design | E-commerce stores |
-| Database modeling | Landing pages & portfolios | Design system creation | Admin dashboards |
-| API integration | Figma to code | Content layout | Shopify development |
+* End-to-end custom web application development and design
+* Business, corporate & brand websites
+* Custom admin dashboards
+* Landing pages & portfolio websites
+* E-commerce stores
+* Modern web & App User interfaces
+* Seamless UX design
+* Figma prototyping & wireframing
+* Figma to custom Code
+  
 
----
+
+
+### What I Offer:
+- End-to-end custom web application development and design
+- Front-end: React.js, Tailwind CSS, HTML/CSS/JS (MERN Stack)
+- Back-end: Node.js, Express.js, MongoDB, REST APIs, Data Modeling
+- UI/UX Design: Figma
+
 
 ### Portfolio
 
-> **JBeauty Lounge** — Luxury Salon Website Design & Development
 
-> **Brand E-Commerce** — Coffee Company Website Design & Development
+> **Brand E-Commerce** — Custom E-Commerce Applications with Admin Dashboards
 
-> **Digital Agency** — Multi-Page Portfolio Business Website
+> **Nerobytetalks** — Blog website with  inbuild blog editor and Auth system  
 
-🔗 [View all projects on Upwork →](https://www.upwork.com/freelancers/aysha)
+> **JBeauty Lounge** — Salon Landing Page & Gallery
 
----
+> **Calmline Wellness** — Wellness Coach Booking landing page
 
-### GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=AyshaSaeed-Alpha&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=AyshaSaeed-Alpha&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyshaSaeed-Alpha&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+🔗 [View all projects on Upwork →](https://www.upwork.com/freelancers/~01b3c4706288536a95?viewMode=1)
 
 ---
+
 
 <div align="center">
 
 Have a project in mind or a website that isn't doing its job?
 I read every message and usually reply within a few hours.
 
-**[Hire me on Upwork ↗](https://www.upwork.com/freelancers/aysha)**
+**[Upwork ↗](https://www.upwork.com/freelancers/~01b3c4706288536a95?viewMode=1)**
 
 </div>
