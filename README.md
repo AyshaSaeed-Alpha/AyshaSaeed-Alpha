@@ -15,9 +15,10 @@ They say Work Speaks better than words -have a look
 * Porfolio: [Portfolio](https://alphatomdynamics.vercel.app/portfolio)
 
 
-*[GitHub](https://github.com/AyshaSaeed-Alpha)
-*[aysha.saeedbu@gmail.com](mailto:aysha.saeedbu@gmail.com)
-*[Upwork](https://www.upwork.com/freelancers/~01b3c4706288536a95?viewMode=1)
+*GitHub: [GitHub](https://github.com/AyshaSaeed-Alpha)
+*Email: [aysha.saeedbu@gmail.com](mailto:aysha.saeedbu@gmail.com)
+*Upwork: [Upwork/ayshasaeed](https://www.upwork.com/freelancers/~01b3c4706288536a95?viewMode=1)
+
 </div>
 
 ---
