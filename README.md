@@ -1,14 +1,16 @@
 <div align="center">
 
-<sub> you found me — </sub>
+<sub> So you found me — </sub>
 
 # Hey, I'm Aysha Saeed
 ### Full-Stack Developer · UI/UX Designer 
 ### Sialkot, PK
 
 ---
-#### They say Work Speaks better than words -here a look 
+They say Work Speaks better than words -have a look 
 
+* Homepage: [AyshaSaeed.is-a.dev](https://ayshasaeed.is-a.dev/)
+* Porfolio: [Portfolio](https://alphatomdynamics.vercel.app/portfolio)
 
 [![Upwork](https://img.shields.io/badge/Upwork-14a800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b3c4706288536a95?viewMode=1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AyshaSaeed-Alpha)
