@@ -97,9 +97,9 @@ Started from scratch in 2023. Before code, I wrote copy landing pages, sales fun
 
 <div align="center">
 
-Have a project in mind or a website that isn't doing its job?
+Have a project in mind, consult with me. 
 I read every message and usually reply within a few hours.
 
-**[Upwork ↗](https://www.upwork.com/freelancers/~01b3c4706288536a95?viewMode=1)**
+**[Discuss it with me ↗](https://tally.so/r/KYDjKK)**
 
 </div>
