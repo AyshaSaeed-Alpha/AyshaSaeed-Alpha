@@ -33,6 +33,7 @@ Started from scratch in 2023. Before code, I wrote copy landing pages, sales fun
 
 <div align="center">
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" title="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" title="JavaScript"/>
@@ -52,7 +53,7 @@ Started from scratch in 2023. Before code, I wrote copy landing pages, sales fun
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" title="GitHub"/>
 <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" height="22" title="Shopify"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="22" title="Postman"/>
-
+</div>
 </div>
 
 ---
