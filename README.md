@@ -32,7 +32,7 @@ Started from scratch in 2023. Before code, I wrote copy landing pages, sales fun
 
 ### Tech Stack
 
-<div align="center">
+<div >
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3"/>
