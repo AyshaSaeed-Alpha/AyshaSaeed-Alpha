@@ -1,4 +1,4 @@
-<div align="center">
+l<div align="center">
 
 <sub> So you found me — than let me introduce myself</sub>
 
@@ -73,7 +73,7 @@ Started from scratch in 2023. Before code, I wrote copy landing pages, sales fun
 
 
 
-### What I Offer:
+### 🎯 What I Offer:
 - End-to-end custom web application development and design
 - Front-end: React.js, Tailwind CSS, HTML/CSS/JS (MERN Stack)
 - Back-end: Node.js, Express.js, MongoDB, REST APIs, Data Modeling
@@ -85,11 +85,11 @@ Started from scratch in 2023. Before code, I wrote copy landing pages, sales fun
 
 > **Brand E-Commerce** — Custom E-Commerce Applications with Admin Dashboards
 
-> **Nerobytetalks** — Blog website with  inbuild blog editor and Auth system  
+> **Nerobytetalks** — Articles & Blogs publishing website with inbuild blog editor and Auth system and a database.
 
-> **JBeauty Lounge** — Salon Landing Page & Gallery
+> **JBeauty Lounge** — Salon Booking Landing Page & Gallery Preview with lightbox
 
-> **Calmline Wellness** — Wellness Coach Booking landing page
+> **Calmline Wellness** — Wellness Coach Booking landing page, With focused UI/UX to improve Conversion rates
 
 🔗 [View all projects on Upwork →](https://www.upwork.com/freelancers/~01b3c4706288536a95?viewMode=1)
 
