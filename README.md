@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub> So you found me — </sub>
+<sub> So you found me — than let me introduce myself</sub>
 
 # Hey, I'm Aysha Saeed
 ### Full-Stack Developer | UI/UX Designer | 3+ year of experience
