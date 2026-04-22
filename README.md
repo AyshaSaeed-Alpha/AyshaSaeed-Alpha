@@ -3,7 +3,7 @@
 <sub> So you found me — than let me introduce myself</sub>
 
 # Hey, I'm Aysha Saeed
-### Full-Stack Developer | UI/UX Designer | 3+ year of experience
+### Full-Stack Developer | UI/UX Designer | 2+ year of experience
  Sialkot, PK
  
 </div>
@@ -26,7 +26,7 @@ Upwork: [Upwork/ayshasaeed](https://www.upwork.com/freelancers/~01b3c4706288536a
 
 ### About
 
-Started from scratch in 2023. Before code, I wrote copy landing pages, sales funnels, email sequences — and managed brands online. That background shapes how I build: I care about what a website *does* for a business, not just how it looks. Now I build full-stack web apps and design interfaces end-to-end, from Figma to deployment.
+Started from scratch in 2023. Before code, I wrote copy landing pages, sales funnels, email sequences and managed brands online. That background shapes how I build: I care about what a website *does* for a business, not just how it looks. Now I build full-stack web apps and design interfaces end-to-end, from Figma to deployment.
 
 ---
 
