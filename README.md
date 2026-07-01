@@ -13,12 +13,12 @@
 They say Work Speaks better than words -have a look 
 
 * Homepage: [AyshaSaeed.is-a.dev](https://ayshasaeed.is-a.dev/)
-* Porfolio: [Portfolio](https://alphatomdynamics.vercel.app/portfolio)
+* Porfolio: [Portfolio](https://alphatomdynamics.pages.dev/portfolio)
 
 
 [GitHub](https://github.com/AyshaSaeed-Alpha) | 
 Email: [aysha.saeedbu@gmail.com](mailto:aysha.saeedbu@gmail.com) | 
-Upwork: [Upwork/ayshasaeed](https://www.upwork.com/freelancers/~01b3c4706288536a95?viewMode=1)
+
 
 </div>
 
@@ -91,7 +91,7 @@ Started from scratch in 2022. Before code, I wrote copy landing pages, sales fun
 
 > **Calmline Wellness** — Wellness Coach Booking landing page, With focused UI/UX to improve Conversion rates
 
-🔗 [View all projects on Upwork →](https://www.upwork.com/freelancers/~01b3c4706288536a95?viewMode=1)
+🔗 [View all projects on my portfolio →](https://alphatomdynamics.pages.dev/portfolio)
 
 ---
 
