@@ -3,7 +3,7 @@
 <sub> So you found me — than let me introduce myself</sub>
 
 # Hey, I'm Aysha Saeed
-### Full-Stack Web Developer | UI/UX Designer | Social media management 2+ year of experience
+### Full-Stack Web Developer | UI/UX Designer | Social media management 3+ year of experience
  Sialkot, PK
  
 </div>
