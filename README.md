@@ -12,13 +12,11 @@
 
 They say Work Speaks better than words -have a look 
 
-* Homepage: [AyshaSaeed.is-a.dev](https://ayshasaeed.is-a.dev/)
 * Porfolio: [Portfolio](https://alphatomdynamics.pages.dev/portfolio)
 
 
 [GitHub](https://github.com/AyshaSaeed-Alpha) | 
-Email: [aysha.saeedbu@gmail.com](mailto:aysha.saeedbu@gmail.com) | 
-
+=
 
 </div>
 
